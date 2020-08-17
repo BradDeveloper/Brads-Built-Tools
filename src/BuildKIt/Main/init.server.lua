@@ -3,7 +3,7 @@ local plugin = plugin
 local CREATE_STORAGE_FOLDER = true
 
 local TOOLBAR_NAME = "Brad's Plugins"
-local PLUGIN_NAME = "Build Kit TESTING"
+local PLUGIN_NAME = "Build Kit"
 local PLUGIN_DESCRIPTION = "Edge Loop, Meshes, Sound Visual, Part Counter, Character Importer"
 local PLUGIN_ICON = "http://www.roblox.com/asset/?id=1521636846"
 local CORE_WIDGET_INFO = DockWidgetPluginGuiInfo.new(
